@@ -1,0 +1,125 @@
+/* Universal css */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* css for body */
+body{
+    background-color: rgba(0, 0, 0, 0.749);
+}
+/* header */
+header{
+    padding: 40px;
+}
+/* h1 */
+header > h1{
+    padding-bottom: 15px;
+    font-size: 40px;
+    color: aliceblue;
+}
+/* h2 */
+header > h2{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+/* main */
+main{
+    text-align: center;
+}
+main > div{
+    margin: 0 auto;
+    width: 50%;
+    font-size: 15px;
+    color: aliceblue;
+    line-height: 40px;
+}
+.basic{
+    font-size: 20px;
+}
+.blue{
+    font-size: 25px;
+    color: aqua;
+}
+.gold{
+    font-size: 25px;
+    color: gold;
+}
+.orange{
+    color: orange;
+}
+/* font size */
+.fontsize{
+    font-size: 30px;
+}
+.fontsizes{
+    font-size: 30px;
+    color: #50C878;
+}
+/* italic design */
+.italic{
+    font-family: 'Italianno', sans-serif;
+    font-size: 40px;
+    margin: 10px 0;
+    line-height: 60px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    color: pink;
+}
+/* bold */
+.hot{
+    font-size: 20px;
+    margin: 20px 0;
+}
+.hallelujah{
+    letter-spacing: 5px;
+    color: rgba(255, 255, 0, 0.734);
+}
+.believe{
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #50C878;
+}
+/* STOP showing in bold */
+.stop{
+    font-size: 50px;
+    color: red;
+}
+.talk{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+/* margin div */
+.margin{
+    margin: -10px 0;
+    font-family: 'Italianno', sans-serif;
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    color: pink;    
+}
+/* letter spacing class */
+.spacing{
+    letter-spacing: 10px;
+}
+.uptown{
+    font-size: 20px;
+    margin: 30px 0;
+    color: pink;
+}
+.l1{
+    padding: 10px 0;
+}
+.la{
+    padding-left: 0px;
+}
+.lb{
+    padding-left: 20px;
+}
+.lc{
+    padding-left: 40px;
+}
